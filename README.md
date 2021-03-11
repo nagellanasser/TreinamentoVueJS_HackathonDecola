@@ -6,7 +6,7 @@ Desenvolvimento de uma SPA [ Aplicação de Página Única ] para conhecimento d
 
 ## Project image
 
-<img width="300" src="src/assets/TelaInicio.png"/>  <img width="300" src="src/assets/Menu_appBar.png"/>  <img width="300" src="src/assets/TelaClassificacao.png"/>
+<img width="250" src="src/assets/TelaInicio.png"/>  <img width="250" src="src/assets/Menu_appBar.png"/>  <img width="250" src="src/assets/TelaClassificacao.png"/>
   
 ## Project setup
 ```
